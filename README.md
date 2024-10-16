@@ -26,8 +26,8 @@
 - **Visualizations**:
    - **Heatmap**: A correlation heatmap was used to visualize relationships between numerical features like `MonthlyCharges`, `tenure`, and `TotalCharges`.
    - **Boxplots**: Boxplots showed the distribution of key features and identified potential outliers, offering insights into customer behavior.
-
-     ![](Churn.png)
+![](churn.png)
+     
 ---
 
 #### **4. Multicollinearity Check**
