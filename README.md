@@ -1,3 +1,5 @@
+![](customer_retention_1.jpg)
+
 ## **Customer Churn Prediction Project Documentation**
 
 #### **1. Introduction**
